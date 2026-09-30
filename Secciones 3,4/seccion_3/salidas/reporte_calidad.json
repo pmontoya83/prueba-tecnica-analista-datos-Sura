@@ -1,0 +1,20 @@
+{
+  "total_registros": 1260,
+  "registros_validos": 535,
+  "registros_rechazados": 725,
+  "rechazados_por_regla": {
+    "completitud": 371,
+    "validez": 336,
+    "unicidad": 583,
+    "consistencia": 112,
+    "oportunidad": 77
+  },
+  "score_por_dimension": {
+    "completitud": 70.56,
+    "validez": 73.33,
+    "unicidad": 53.73,
+    "consistencia": 91.11,
+    "oportunidad": 93.89
+  },
+  "score_global": 76.52
+}
